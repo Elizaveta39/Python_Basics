@@ -1,4 +1,4 @@
-# Python_Basics
+# python_basics
 **README**
 
 Welcome to the repository for solutions to interesting tasks from the Python course on Stepik! Here, you'll find a collection of solutions to various programming challenges designed to enhance your Python skills and deepen your understanding of core concepts.
@@ -16,7 +16,7 @@ Welcome to the repository for solutions to interesting tasks from the Python cou
 
 2. **Navigate to the Directory**: Enter the directory where you have cloned the repository:
    ```
-   cd Python_Basics
+   cd python_basics
    ```
 
 3. **Explore Solutions**: Browse through the `/solutions` directory to explore solutions to various tasks. Each Python file is named descriptively to indicate the corresponding task it addresses.
